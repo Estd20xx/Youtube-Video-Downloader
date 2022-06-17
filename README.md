@@ -1,6 +1,7 @@
-# Youtube-Video-Downloader
+Simple Youtube Vudeo Downloader in Python.
 
 ## Initial Realese:
 
-![youtubeVideoDownloader](https://user-images.githubusercontent.com/87481819/172230756-7a5fb356-3c91-491a-96a2-ed1c67e4d669.jpg)
+![youtubeDownloaderinpythin](https://user-images.githubusercontent.com/87481819/174295247-ba066a6f-b455-4920-84cc-5adc63b4f7f8.jpg)
+
 
